@@ -11,7 +11,7 @@ This is a simple Tic Tac Toe game built with React.
 
 ## Getting Started
 1. Clone the repository:
-`git clone https://github.com/your-username/tic-tac-toe.git`
+`git clone https://github.com/Kshitiz2020/Tictactoe.git`
 
 2. Navigate to the project directory:
 `cd tic-tac-toe`
