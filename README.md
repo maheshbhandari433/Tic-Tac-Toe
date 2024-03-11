@@ -29,5 +29,9 @@ This is a simple Tic Tac Toe game built with React.
 - Try to get three X's in a row, column, or diagonal to win the game.
 - If no player achieves three in a row and all squares are filled, the game is a tie.
 
+## Live URL
+
+Live demo of the game can be accessed here: [Tic Tac Toe](https://tictactoe-playgame.netlify.app)
+
 ## License
 This project is licensed under the [MIT License](LICENSE).
